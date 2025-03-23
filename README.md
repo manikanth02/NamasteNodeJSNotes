@@ -1,5 +1,8 @@
 # Namaste NodeJS Course Handwritten Notes
 
+
+-> Javascript Course Notes
+
 Welcome to the **Namaste NodeJS Course Handwritten Notes** repository! This repository contains my handwritten notes from both Season 1 and Season 2 of the Namaste NodeJS course, which covers various topics in Node.js, Express, MongoDB, and more.
 
 ## Table of Contents
